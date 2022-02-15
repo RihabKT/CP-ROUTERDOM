@@ -1,0 +1,31 @@
+.buttonAdd{
+   margin-left:650px;
+    font-weight: bolder;
+    font-size: 40px;
+    width: 70px;
+    background-color: rgb(235, 232, 195);
+    color: rgb(31, 32, 37);
+    border: none;
+ }
+
+
+ .modalTitle{
+    font-size: x-large;
+    font-weight: bolder;
+    color:rgb(186, 158, 94)  ;
+}
+
+.modalBody{
+    text-align: center;
+    color: rgb(102, 96, 96);
+    font-weight: bolder;
+}
+
+.formAdd{
+    width:400px;
+    height:30px;
+    border-radius: 3px;
+    border: 1px solid gray;
+    text-align: center;
+    margin-left: 50px;
+}

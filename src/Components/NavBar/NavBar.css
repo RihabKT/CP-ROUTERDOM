@@ -1,0 +1,40 @@
+.MovieL , .Admin{
+    margin-left:40px;
+
+}
+
+.Home{
+    margin-left: 270px;
+    
+}
+
+.Home,.MovieL, .Admin{
+    text-decoration:none;
+color:  goldenrod;
+font-weight: bolder;
+}
+
+.Admin:hover{
+    color:black;
+}
+.Home:hover{
+    color: black;
+}
+.MovieL:hover{
+    color: black;
+}
+
+.LogIn{
+    border: 1px solid rgb(142, 179, 9);
+    font-weight: bolder;
+    color: rgb(142, 179, 9);
+    background-color: rgb(239, 241, 224);
+    border-radius: 10px;
+    margin-right: 20px;
+    padding: 10px;
+}
+
+.LogIn:hover{
+    background-color: green;
+    color: black;
+}
