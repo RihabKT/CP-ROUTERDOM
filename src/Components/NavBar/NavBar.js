@@ -14,7 +14,7 @@ function NavBar({ isAuth, login, logout } ){
     <Navbar.Collapse id="basic-navbar-nav">
       <Nav className="me-auto">
         <Link to="/"  className="Home"> Home </Link>
-        <Link to="/MovieList" className="MovieL"> Movies </Link>
+        <Link to="/MovieList" className="MovieL"> Nominated Movies </Link>
         <Link to="/Admin" className="Admin"> Admin </Link>
       </Nav>
     </Navbar.Collapse>
