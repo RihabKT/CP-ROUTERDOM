@@ -1,10 +1,10 @@
 .MovieL , .Admin{
-    margin-left:40px;
+    margin-left:50px;
 
 }
 
 .Home{
-    margin-left: 270px;
+    margin-left: 200px;
     
 }
 
@@ -12,6 +12,7 @@
     text-decoration:none;
 color:  goldenrod;
 font-weight: bolder;
+    font-size: x-small;
 }
 
 .Admin:hover{
